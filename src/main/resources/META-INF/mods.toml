@@ -1,0 +1,28 @@
+
+modLoader="javafml"
+loaderVersion="[43,)"
+license="public domain"
+
+[[mods]]
+modId="craft_and_hunt"
+version="${file.jarVersion}"
+displayName="Craft and Hunt"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="Moon Slime"
+description='''
+A mod about adding more drops to mobs for the player to use
+'''
+[[dependencies.craft_and_hunt]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.craft_and_hunt]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
