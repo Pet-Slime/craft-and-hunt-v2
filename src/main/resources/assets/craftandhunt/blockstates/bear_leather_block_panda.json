@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "craftandhunt:block/bear_leather_block_panda",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "craftandhunt:block/bear_leather_block_panda"
+    },
+    "axis=z": {
+      "model": "craftandhunt:block/bear_leather_block_panda",
+      "x": 90
+    }
+  }
+}

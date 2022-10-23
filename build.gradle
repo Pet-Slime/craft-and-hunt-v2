@@ -5,8 +5,8 @@ plugins {
 }
 
 version = '1.0'
-group = 'net.moon_slime.craft_and_hunt' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'craft_and_hunt'
+group = 'net.moon_slime.craftandhunt' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'craftandhunt'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)

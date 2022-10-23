@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "craftandhunt:block/bear_leather_block_panda_top",
+    "up": "craftandhunt:block/bear_leather_block_panda_top",
+    "north": "craftandhunt:block/bear_leather_block_panda_back",
+    "east": "craftandhunt:block/bear_leather_block_panda_left",
+    "south": "craftandhunt:block/bear_leather_block_panda_front",
+    "west": "craftandhunt:block/bear_leather_block_panda_right",
+    "particle": "craftandhunt:block/bear_leather_block_panda_top"
+  },
+  "render_type": "solid"
+}

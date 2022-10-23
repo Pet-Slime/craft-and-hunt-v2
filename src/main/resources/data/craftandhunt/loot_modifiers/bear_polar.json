@@ -1,0 +1,10 @@
+{
+  "type": "craftandhunt:leather_loot_drops",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/polar_bear"
+    }
+  ],
+  "item": "craftandhunt:bear_leather_polar"
+}
