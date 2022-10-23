@@ -14,7 +14,7 @@ public class ModCreativeModTab {
     public static final CreativeModeTab CRAFT_AND_HUNT_ARMORS = new CreativeModeTab("craftandhunttabarmors") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.BEAR_LEATHER_POLAR.get());
+            return new ItemStack(ModItems.BEAR_ARMOR_POLAR_CHESTPLATE.get());
         }
     };
 }
