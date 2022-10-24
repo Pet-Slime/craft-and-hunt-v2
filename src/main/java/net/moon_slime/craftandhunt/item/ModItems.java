@@ -24,22 +24,22 @@ public class ModItems {
     public static final RegistryObject<Item> BEAR_LEATHER_PANDA= ITEMS.register("bear_leather_panda",
             () -> new Item(new Item.Properties().tab(LEATHERS)));
 
-    public static final RegistryObject<Item> BEAR_ARMOR_POLAR_HELMET = ITEMS.register("bear_armor_polar_helmet",
+    public static final RegistryObject<Item> BEAR_LEATHER_POLAR_HELMET = ITEMS.register("bear_leather_polar_helmet",
             () -> new BearArmorPolar.Helmet());
-    public static final RegistryObject<Item> BEAR_ARMOR_POLAR_CHESTPLATE = ITEMS.register("bear_armor_polar_chestplate",
+    public static final RegistryObject<Item> BEAR_LEATHER_POLAR_CHESTPLATE = ITEMS.register("bear_leather_polar_chestplate",
             () -> new BearArmorPolar.Chestplate());
-    public static final RegistryObject<Item> BEAR_ARMOR_POLAR_LEGGINGS = ITEMS.register("bear_armor_polar_leggings",
+    public static final RegistryObject<Item> BEAR_LEATHER_POLAR_LEGGINGS = ITEMS.register("bear_leather_polar_leggings",
             () -> new BearArmorPolar.Leggings());
-    public static final RegistryObject<Item> BEAR_ARMOR_POLAR_BOOTS = ITEMS.register("bear_armor_polar_boots",
+    public static final RegistryObject<Item> BEAR_LEATHER_POLAR_BOOTS = ITEMS.register("bear_leather_polar_boots",
             () -> new BearArmorPolar.Boots());
 
-    public static final RegistryObject<Item> BEAR_ARMOR_PANDA_HELMET = ITEMS.register("bear_armor_panda_helmet",
+    public static final RegistryObject<Item> BEAR_LEATHER_PANDA_HELMET = ITEMS.register("bear_leather_panda_helmet",
             () -> new BearArmorPanda.Helmet());
-    public static final RegistryObject<Item> BEAR_ARMOR_PANDA_CHESTPLATE = ITEMS.register("bear_armor_panda_chestplate",
+    public static final RegistryObject<Item> BEAR_LEATHER_PANDA_CHESTPLATE = ITEMS.register("bear_leather_panda_chestplate",
             () -> new BearArmorPanda.Chestplate());
-    public static final RegistryObject<Item> BEAR_ARMOR_PANDA_LEGGINGS = ITEMS.register("bear_armor_panda_leggings",
+    public static final RegistryObject<Item> BEAR_LEATHER_PANDA_LEGGINGS = ITEMS.register("bear_leather_panda_leggings",
             () -> new BearArmorPanda.Leggings());
-    public static final RegistryObject<Item> BEAR_ARMOR_PANDA_BOOTS = ITEMS.register("bear_armor_panda_boots",
+    public static final RegistryObject<Item> BEAR_LEATHER_PANDA_BOOTS = ITEMS.register("bear_leather_panda_boots",
             () -> new BearArmorPanda.Boots());
 
 

@@ -27,11 +27,11 @@ public class ModBlocks {
 
     private static final CreativeModeTab LEATHERS = ModCreativeModTab.CRAFT_AND_HUNT_LEATHERS;
 
-     public static final RegistryObject<Block> BEAR_LEATHER_POLAR = registerBlock("bear_leather_block_polar",
+     public static final RegistryObject<Block> BEAR_LEATHER_POLAR_BLOCK = registerBlock("bear_leather_polar_block",
              () -> new RotatedPillarBlock(BlockBehaviour.Properties.of(Material.WOOL).color(MaterialColor.SNOW).sound(SoundType.WOOL).strength(0.8F)), LEATHERS);
 
 
-    public static final RegistryObject<Block> BEAR_LEATHER_PANDA = registerBlock("bear_leather_block_panda",
+    public static final RegistryObject<Block> BEAR_LEATHER_PANDA_BLOCK = registerBlock("bear_leather_panda_block",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.of(Material.WOOL).color(MaterialColor.SNOW).sound(SoundType.WOOL).strength(0.8F)), LEATHERS);
 
 

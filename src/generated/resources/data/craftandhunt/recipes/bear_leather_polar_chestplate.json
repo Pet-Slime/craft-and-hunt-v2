@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bear_leather_polar",
+  "key": {
+    "x": {
+      "item": "craftandhunt:bear_leather_polar"
+    }
+  },
+  "pattern": [
+    "x x",
+    "xxx",
+    "xxx"
+  ],
+  "result": {
+    "item": "craftandhunt:bear_leather_polar_chestplate"
+  }
+}

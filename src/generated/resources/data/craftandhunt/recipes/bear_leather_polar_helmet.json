@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bear_leather_polar",
+  "key": {
+    "x": {
+      "item": "craftandhunt:bear_leather_polar"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "x x"
+  ],
+  "result": {
+    "item": "craftandhunt:bear_leather_polar_helmet"
+  }
+}

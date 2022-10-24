@@ -1,22 +1,22 @@
 {
 
-  "item.craftandhunt.bear_armor_polar_helmet":            "Polar Bear Helmet",
-  "item.craftandhunt.bear_armor_polar_chestplate":        "Polar Bear Chestplate",
-  "item.craftandhunt.bear_armor_polar_leggings":          "Polar Bear Leggings",
-  "item.craftandhunt.bear_armor_polar_boots":             "Polar Bear Boots",
+  "item.craftandhunt.bear_leather_polar_helmet":            "Polar Bear Helmet",
+  "item.craftandhunt.bear_leather_polar_chestplate":        "Polar Bear Chestplate",
+  "item.craftandhunt.bear_leather_polar_leggings":          "Polar Bear Leggings",
+  "item.craftandhunt.bear_leather_polar_boots":             "Polar Bear Boots",
 
-  "item.craftandhunt.bear_armor_panda_helmet":            "Panda Bear Helmet",
-  "item.craftandhunt.bear_armor_panda_chestplate":        "Panda Bear Chestplate",
-  "item.craftandhunt.bear_armor_panda_leggings":          "Panda Bear Leggings",
-  "item.craftandhunt.bear_armor_panda_boots":             "Panda Bear Boots",
+  "item.craftandhunt.bear_leather_panda_helmet":            "Panda Bear Helmet",
+  "item.craftandhunt.bear_leather_panda_chestplate":        "Panda Bear Chestplate",
+  "item.craftandhunt.bear_leather_panda_leggings":          "Panda Bear Leggings",
+  "item.craftandhunt.bear_leather_panda_boots":             "Panda Bear Boots",
 
 
   "item.craftandhunt.bear_leather_polar": "Polar Bear Hide",
   "item.craftandhunt.bear_leather_panda": "Panda Bear Hide",
 
 
-  "block.craftandhunt.bear_leather_block_polar": "Polar Bear Hide",
-  "block.craftandhunt.bear_leather_block_panda": "Panda Bear Hide",
+  "block.craftandhunt.bear_leather_polar_block": "Polar Bear Hide",
+  "block.craftandhunt.bear_leather_panda_block": "Panda Bear Hide",
 
 
   "itemGroup.craftandhunttableathers": "Craft and Hunt: Drops and Blocks"

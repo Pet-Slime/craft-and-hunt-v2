@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bear_leather_panda",
+  "key": {
+    "x": {
+      "item": "craftandhunt:bear_leather_panda"
+    }
+  },
+  "pattern": [
+    "x x",
+    "xxx",
+    "xxx"
+  ],
+  "result": {
+    "item": "craftandhunt:bear_leather_panda_chestplate"
+  }
+}
