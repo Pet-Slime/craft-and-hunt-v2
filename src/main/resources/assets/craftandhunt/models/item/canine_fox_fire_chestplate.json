@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "craftandhunt:item/armor/canine_fox_fire_chestplate"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bone",
+  "key": {
+    "x": {
+      "tag": "forge:bones"
+    }
+  },
+  "pattern": [
+    "x x",
+    "x x"
+  ],
+  "result": {
+    "item": "craftandhunt:bone_boots"
+  }
+}

@@ -10,6 +10,30 @@
   "item.craftandhunt.bear_leather_panda_leggings":          "Panda Bear Leggings",
   "item.craftandhunt.bear_leather_panda_boots":             "Panda Bear Boots",
 
+  "item.craftandhunt.bone_helmet":            "Bone Helmet",
+  "item.craftandhunt.bone_chestplate":        "Bone Chestplate",
+  "item.craftandhunt.bone_leggings":          "Bone Leggings",
+  "item.craftandhunt.bone_boots":             "Bone Boots",
+
+  "item.craftandhunt.canine_wolf_helmet":            "Wolf Helmet",
+  "item.craftandhunt.canine_wolf_chestplate":        "Wolf Chestplate",
+  "item.craftandhunt.canine_wolf_leggings":          "Wolf Leggings",
+  "item.craftandhunt.canine_wolf_boots":             "Wolf Boots",
+
+  "item.craftandhunt.canine_fox_helmet":            "Fox Helmet",
+  "item.craftandhunt.canine_fox_chestplate":        "Fox Chestplate",
+  "item.craftandhunt.canine_fox_leggings":          "Fox Leggings",
+  "item.craftandhunt.canine_fox_boots":             "Fox Boots",
+
+  "item.craftandhunt.canine_fox_fire_helmet":            "Fire Hound Helmet",
+  "item.craftandhunt.canine_fox_fire_chestplate":        "Fire Hound Chestplate",
+  "item.craftandhunt.canine_fox_fire_leggings":          "Fire Hound Leggings",
+  "item.craftandhunt.canine_fox_fire_boots":             "Fire Hound Boots",
+
+  "item.craftandhunt.hoglin_helmet":            "Hoglin Helmet",
+  "item.craftandhunt.hoglin_chestplate":        "Hoglin Chestplate",
+  "item.craftandhunt.hoglin_leggings":          "Hoglin Leggings",
+  "item.craftandhunt.hoglin_boots":             "Hoglin Boots",
 
   "item.craftandhunt.bear_leather_polar": "Polar Bear Hide",
   "item.craftandhunt.bear_leather_panda": "Panda Bear Hide",
