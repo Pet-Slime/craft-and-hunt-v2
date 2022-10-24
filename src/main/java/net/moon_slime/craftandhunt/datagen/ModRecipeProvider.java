@@ -37,7 +37,7 @@ public class ModRecipeProvider  extends RecipeProvider {
         Item ModItem = item;
         Block ModBlock = block;
         String itemToBlock = item.toString() + "_to_" + block.asItem().toString();
-        String blockToItem = block.asItem().toString() + "_to_" + item.toString());
+        String blockToItem = block.asItem().toString() + "_to_" + item.toString();
 
         ShapelessRecipeBuilder.shapeless(ModItem, 9)
                 .requires(ModBlock)
